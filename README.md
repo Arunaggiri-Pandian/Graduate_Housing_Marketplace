@@ -1,5 +1,5 @@
 # Graduate_Housing_Marketplace
-Marketplace Website for the Graduate Students of University of Rochester
+## Marketplace Website for the Graduate Students of University of Rochester
 
 • Developed and implemented a database system for the graduate student housing market at the University of Rochester.  
 • Improved housing transactions with a user-friendly platform for students to buy and sell.  
